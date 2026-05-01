@@ -10,6 +10,7 @@ An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tag
 Read this information in other languages:
 * [English](README.md)
 * [简体中文](README.zh-CN.md)
+* [正體中文](README.zh-TW.md)
 
 Helpful links:
 * [MIFARE Classic Tool (Donate Version) on Google Play](https://play.google.com/store/apps/details?id=de.syss.MifareClassicToolDonate)

@@ -10,6 +10,7 @@ MIFARE Classic Tool (MCT)
 以其他语言阅读本文:
 * [English](README.md)
 * [简体中文](README.zh-CN.md)
+* [正體中文](README.zh-TW.md)
 
 链接:
 * [Google Play上的MIFARE Classic Tool (捐赠版)](https://play.google.com/store/apps/details?id=de.syss.MifareClassicToolDonate)
